@@ -1,4 +1,4 @@
-# Custom software used in ""
+# Custom software used in "Amino acid scavenging prevents premature spore germination in sporulating populations of *Bacillus subtilis*"
 
 ## File description
 
@@ -15,3 +15,8 @@ The code takes the Ilastik-generated segmentation masks of phase bright and phas
 ## Data link
 
 Images used for segmentation training and analysis are available at the repository...
+
+
+## Paper reference
+
+Kasu;, I., Reyes-Matte, O., Derman, A. I. & Lopez-Garrido, J. (2023) Amino acid scavenging prevents premature spore germination in sporulating populations of *Bacillus subtilis* *In preparation*
