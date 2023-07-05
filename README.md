@@ -19,4 +19,4 @@ Images used for segmentation training and analysis are available at the reposito
 
 ## Paper reference
 
-Kasu;, I., Reyes-Matte, O., Derman, A. I. & Lopez-Garrido, J. (2023) Amino acid scavenging prevents premature spore germination in sporulating populations of *Bacillus subtilis* *In preparation*
+Kasu;, I., Reyes-Matte, O., Derman, A. I. & Lopez-Garrido, J. (2023) Amino acid scavenging prevents premature spore germination in sporulating populations of *Bacillus subtilis*. *In preparation*
