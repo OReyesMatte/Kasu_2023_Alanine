@@ -1,4 +1,4 @@
-# Code used for the article ""
+# Custom software used in ""
 
 ## File description
 
